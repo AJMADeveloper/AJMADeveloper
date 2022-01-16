@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AJMADeveloper
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ambu Acharya
+- 👀 I’m interested in Augmented Reality and Artificial Intelligence.
+- 🌱 I’m currently learning Unity and SparkAR.
+- 💞️ I’m looking to collaborate on new Technology.
+- 📫 Reach me @ ambuacharya@gmail.com
 
 <!---
 AJMADeveloper/AJMADeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
